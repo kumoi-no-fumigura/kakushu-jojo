@@ -6,7 +6,12 @@
  "yomi": "かくしゅうじょうじょう",
  "category": "能・狂言",
  "kind": "noh",
- "description": null,
+ "description": {
+  "kind": "能楽論",
+  "era": "室町時代前期",
+  "author": "世阿弥",
+  "desc": "世阿弥の能楽論の一つ。芸の習い方の心得を条々に記す。"
+ },
  "editions": [
   {
    "pid": "859394",
